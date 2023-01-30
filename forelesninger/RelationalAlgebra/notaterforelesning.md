@@ -1,2 +1,0 @@
-# Forelesninger
-## Relational algebra
