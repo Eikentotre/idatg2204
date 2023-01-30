@@ -24,11 +24,10 @@ domain (.com) (Returns 5 records)
 
 - Q3: Retrieve the information of loans given to the customers in each branch between
 2019-06-01 and 2020-06-01. (Returns 4 records)
-
+```SELECT * FROM loan WHERE Starting_Date BETWEEN '2019-06-01' AND '2020-06-01';```
 
 - Q4: Retrieve the youngest customer who has taken a loan. (Returns 1 record)
-``` 
-```
+
 
 - Q5: Write a SQL query that retrieves customers without any loans. (Returns 4 records)
 ``` 
